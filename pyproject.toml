@@ -1,0 +1,14 @@
+[project]
+name = "f1-telemetry-analytics"
+version = "0.1.0"
+description = "F1 Telemetry & Race Analytics Platform"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

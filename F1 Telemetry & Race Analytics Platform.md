@@ -776,7 +776,7 @@ As tarefas abaixo devem ser executadas **na ordem apresentada**.
 Criar GitHub:
 
 ```text
-f1-telemetry-race-analytics
+F1_telemetry_analytics
 ```
 
 Estrutura inicial:
