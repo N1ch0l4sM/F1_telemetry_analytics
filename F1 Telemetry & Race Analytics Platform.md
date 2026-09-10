@@ -870,6 +870,7 @@ Critério:
 
 > disponibilidade, estabilidade dos dados e variedade suficiente para demonstrar as análises.
 
+Temporada escolhida: 2022
 ---
 
 ## TASK 2.3 — Definir contrato dos dados
